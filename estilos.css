@@ -1,5 +1,12 @@
-htlm, body {
+body,html {
     margin: auto;
-   border: solid 20px; color: black);
+   border: solid 10px; color:rgb(27, 72, 57);
+   background-image: url(".imag/maos-corrente-agua");
+   }
+   h3{
+    text-align: center;
 }
-   
+
+p {
+    text-decoration: dashed;
+}
