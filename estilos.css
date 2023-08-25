@@ -1,7 +1,6 @@
-body,HTML {
+HTML,body {
     margin: 0%;
     background-color:rgb(55, 163, 125);
-    background-image: url("imag/agua.jpg");
     background-repeat: repeat-y;
     background-position: right top;
     background-attachment: scroll;
