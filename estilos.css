@@ -1,36 +1,72 @@
 HTML,body {
     margin: 0%;
-    background-color:rgb(55, 163, 125);
-    background-repeat: repeat-y;
-    background-position: right top;
-    background-attachment: scroll;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   }
-   h3 {
-        text-align: center;
+    background-color: rgb(154, 236, 236);
+      
+   
     }
 
-    h4 {
-        text-align: center;
-    }
+#imagem {
 
-    p {
+    background: rgb(70, 171, 205) url("agua.jpg") no-repeat fixed center;
+    width: 80%;
+    padding: 10% 10% 10% 10%;
+    text-align: center;
+    background-size: cover;
+}
+
+    
+
+p {
+    line-height: 1.5;
+    margin: 2% 2% 2% 2%;
+    text-align:justif
+}
+#txt_1 {
+    
+    color: blue;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px black;
+}
+
+#subtexto {
         
-        padding-right: 10%;
-        padding-left: 10%;
-        text-align: justify;
-    }
-#IMAGEM {
-        padding-left: 20%;20%;20%;20%;
         color: blue;
-        text-align: center;
-    }
-
-#METAS {
-        text-decoration: dashed;
+        padding-left: 10%;
         padding-right: 10%;
     }
 
-#MENSAGEM {
-        color:red;
+#titulo {
+        padding-left: 20% 20% 20% 20%;
+        text-align: center;
+        color: blue;
     }
+#titulo_1{
+        text-align: center;
+       
+}
+#titulo_2 {
+    text-align: center;
+}
+#titulo_3 {
+    padding: 10px 10px 10px 30px;
+}
+#metas {
+    padding: 10px 10px 10px 30px;
+
+}
+.destaque_1 {
+    float: left;
+}
+
+
+    
+.mensagem {
+    float: left;
+}
+
+
+
+    
+   
+       
+
