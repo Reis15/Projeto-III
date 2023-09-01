@@ -40,29 +40,52 @@ p {
         text-align: center;
         color: blue;
     }
-#titulo_1{
-        text-align: center;
+#titulo_1 {
+         text-align: center;
        
 }
 #titulo_2 {
-    text-align: center;
+        text-align: center;
 }
 #titulo_3 {
-    padding: 10px 10px 10px 30px;
+        padding: 10px 10px 10px 30px;
 }
 #metas {
-    padding: 10px 10px 10px 30px;
+        padding: 10px 10px 10px 30px;
 
-}
-.destaque_1 {
+section {
     float: left;
+    padding: 20px;
 }
 
-
+}
+.coluna {
+        float: left;
+        padding: 0% 5%;
+        position: relative;
+        width: 40%;
+}
+.texto {
+        text-align: justify;
+        padding: 20% 10% 10% 10%;
+        
+}
     
-.mensagem {
-    float: left;
+.mens {
+    text-align: justify;
+    padding-left: 4%;
+    position: relative;
+    width: 40%;
+      
 }
+
+.destaque {
+    text-align: left;
+}
+.imag 
+    
+   
+
 
 
 
