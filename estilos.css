@@ -98,6 +98,7 @@ li:hover {
 .historia {
             float: right;
             width: 40%;
+            padding-top: 10%;
             padding-left: 5%;
             padding-right: 5%;
             text-align: justify;
@@ -116,7 +117,9 @@ footer {
         text-align: center;
         float: left;
         border: 2%;
+        width: 100%;
         background-color: rgb(6, 140, 140);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
